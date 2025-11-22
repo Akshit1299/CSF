@@ -1,1 +1,15 @@
+I started by creating a new folder for my portfolio project in VS Code.
 
+I created the basic structure using an index.html file.
+
+I added a header, navigation bar, About section, Skills table, Projects section, and Contact form.
+
+Next, I created a style.css file to design the layout, colors, spacing, and responsiveness.
+
+After completing the basic design, I tested the website using the VS Code Live Server extension.
+
+I initialized Git by running git init, then added and committed all changes.
+
+I created a repository on GitHub and pushed the project using git push.
+
+Finally, I added screenshots, improved the README.md file, and completed the documentation folder.
